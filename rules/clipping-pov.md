@@ -1,32 +1,33 @@
 ---
-description: How clipping and POV requests work on SouthSide.
+icon: video
+description: How clipping and POV requests work in Southside Roleplay.
 ---
 
-# 📸 Clipping & POV Policy
+# Clipping & POV Policy
 
-Clips are the backbone of fair moderation on SouthSide. Without valid footage, staff cannot rule on reports or reimbursements.
+Clips are the backbone of fair moderation in Southside Roleplay. Without valid footage, staff cannot rule on reports or reimbursements.
 
 ## Clipping Requirements
 
-* Working **microphone** required.
-* Working **clipping software** required (Nvidia ShadowPlay, Medal.tv, Radeon ReLive, SteelSeries, etc.).
-* Clips must be a **minimum of 2 minutes** and **continuous**.
-* Audio must be present on **both ends**.
+* A working microphone is required.
+* Working clipping software is required (Nvidia ShadowPlay, Medal.tv, Radeon ReLive, SteelSeries, or similar).
+* Clips must be a minimum of two minutes and must be continuous.
+* Audio must be present on both ends.
 
 {% hint style="danger" %}
-You must be **clipping at all times**. No clip = automatic denial of reimbursements and reports.
+You must be clipping at all times. No clip means automatic denial of reimbursements and reports.
 {% endhint %}
 
 ## Requesting POV
 
-When you request someone's POV:
+When you request someone's POV, the order is fixed.
 
 | Step | Who | Requirement |
 | ---- | --- | ----------- |
-| 1 | **You (requester)** | Post your own POV first — **at least 20 seconds** — so staff can verify your clip is valid. |
-| 2 | **The other party** | If your clip is valid, they must post a clip showing **10 seconds before the kill** and **10 seconds after the kill**. |
-| | | Total required POV clip length: **20 seconds**. |
+| 1 | You, the requester | Post your own POV first, at least twenty seconds, so staff can verify your clip is valid. |
+| 2 | The other party | If your clip is valid, they must post a clip showing ten seconds before the kill and ten seconds after the kill. |
+|   |   | The required POV clip length is twenty seconds in total. |
 
 {% hint style="info" %}
-The requester **always posts first**. If your own clip isn't valid, the other party is not obligated to provide theirs.
+The requester always posts first. If your own clip is not valid, the other party is not obligated to provide theirs.
 {% endhint %}

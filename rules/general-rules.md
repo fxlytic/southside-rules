@@ -1,71 +1,52 @@
 ---
-description: The baseline expectations every SouthSide citizen must follow.
+icon: scroll
+description: The baseline expectations every Southside Roleplay citizen must follow.
 ---
 
 # General Server Rules
 
-These are the core rules that apply to **everyone, everywhere** in the city. Breaking any of these can result in punishment up to a permanent ban.
+These rules apply to everyone, everywhere in the city. Breaking any of them can lead to punishment up to a permanent ban.
 
-## 🎥 Clipping Requirement
+## Clipping Requirement
 
-You must have a **working microphone** and **clipping software** running at all times.
-
-* Approved software examples: **Nvidia ShadowPlay, Medal.tv, Radeon ReLive, SteelSeries**.
-* Clips must be a **minimum of 2 minutes** long.
+You must have a working microphone and clipping software running at all times. Approved software includes Nvidia ShadowPlay, Medal.tv, Radeon ReLive, and SteelSeries. Clips must be a minimum of two minutes long.
 
 {% hint style="danger" %}
-**YOU MUST BE CLIPPING AT ALL TIMES WHILE IN THE SERVER.** Failure to be clipping results in **automatic denial** of all reimbursements and in-game reports.
+You must be clipping at all times while in the server. Failure to be clipping results in automatic denial of all reimbursements and in-game reports.
 {% endhint %}
 
-## 📜 Terms of Service
+## Terms of Service
 
-This is a **streamer-friendly city**. You must always follow:
+This is a streamer friendly city. You must always follow the [Twitch Terms of Service](https://www.twitch.tv/p/legal/terms-of-service/) and the [Discord Terms of Service](https://discord.com/terms).
 
-* [Twitch Terms of Service](https://www.twitch.tv/p/legal/terms-of-service/)
-* [Discord Terms of Service](https://discord.com/terms)
+## Hate Speech
 
-## 🚫 Hate Speech — Zero Tolerance
+Hate speech is not allowed. We hold a zero tolerance policy towards racism, trolling, discrimination, homophobia, sexism, and derogatory terms anywhere in the community.
 
-Hate speech is **NOT ALLOWED**. We have a **zero-tolerance policy** towards:
+## Personal Information
 
-* Racism
-* Trolling
-* Discrimination
-* Homophobia
-* Sexism
-* Derogatory terms
+You are not allowed to leak the personal information of another person, in Discord or in game.
 
-This applies within the entire community.
+## Clothing and Appearance
 
-## 🔒 Personal Information
+Unrealistic clothing is not allowed. This includes "100k or die" outfits, costume masks, alien legs, and similar items. No one hand, no hockey masks, no colored tattoos.
 
-You are **not allowed to leak personal information** of another person — in Discord or in-game.
-
-## 👕 Clothing & Appearance
-
-* **No unrealistic clothing.** This includes "100k or die" outfits, costume masks, alien legs, etc.
-* No **one hand**, no **hockey masks**, no **colored tattoos**.
-* You **must wear a backpack/duffle bag** if carrying a big gun.
+You must wear a backpack or duffle bag if carrying a big gun.
 
 {% hint style="warning" %}
-The **backpack/duffle bag requirement for big guns** is **enforced heavily**. Carry a rifle without a bag and you risk punishment.
+The backpack requirement for big guns is enforced heavily. Carrying a rifle without a bag puts you at risk of punishment.
 {% endhint %}
 
-## 🤬 Toxicity
+## Toxicity
 
-Toxic behavior against **other players, staff, management, developers, and owners** is **FORBIDDEN**. This applies across **all platforms** the community uses — Twitch, Kick, Discord, in-game reports, etc.
+Toxic behavior against other players, staff, management, developers, and owners is forbidden. This applies across every platform the community uses, including Twitch, Kick, Discord, and in-game reports.
 
-## 🌫️ Props & Ped Glow
+## Props and Ped Glow
 
-* **Ped glow is not allowed.**
-* **No missing props** (Bushes / Trees / Water).
-* You must have **all props** loaded within the city. Failure to do so results in a **ban**.
+Ped glow is not allowed, and missing props are not allowed (bushes, trees, water). You must have all props loaded within the city. Failure to do so results in a ban.
 
-## 📹 POV Requests
+## POV Requests
 
-When requesting POV:
+When requesting POV, you must post your own POV first, at least twenty seconds, so staff can confirm the clip is valid. If your clip is valid, the other party must post a clip showing ten seconds before the kill and ten seconds after the kill, for a twenty second clip in total.
 
-1. You must **post your POV first** (at least **20 seconds**) so staff can see if the clip is valid.
-2. If the clip is valid, the person required to post POV must show a clip of **10 seconds before the kill** and **10 seconds after the kill** — a **20-second clip total**.
-
-➡️ See the full [Clipping & POV Policy](clipping-pov.md) for details.
+See the full [Clipping & POV Policy](clipping-pov.md) for details.

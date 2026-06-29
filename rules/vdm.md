@@ -1,17 +1,18 @@
 ---
-description: Section X — Don't use your car as a weapon.
+icon: car-burst
+description: Section X. Do not use your car as a weapon.
 ---
 
 # X. Vehicle Deathmatch (VDM)
 
-**VDM** is hitting someone with your car repeatedly for no reason, or killing someone with your vehicle for no reason.
+VDM is hitting someone with your car repeatedly for no reason, or killing someone with your vehicle for no reason.
 
 {% hint style="danger" %}
-**Hitting someone 2 or more times is considered VDM.**
+Hitting someone two or more times is considered VDM.
 {% endhint %}
 
 ## In Short
 
-* Don't ram players with your vehicle without a valid roleplay reason.
-* Don't use your car as a kill weapon.
-* **Two or more hits** = VDM = punishment.
+* Do not ram players with your vehicle without a valid roleplay reason.
+* Do not use your car as a kill weapon.
+* Two or more hits counts as VDM and carries a punishment.

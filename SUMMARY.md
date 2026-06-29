@@ -1,11 +1,11 @@
 # Table of contents
 
-* [🌴 Welcome to SouthSide](README.md)
+* [Welcome to Southside Roleplay](README.md)
 
-## 📋 Server Rules
+## Server Rules
 
 * [General Server Rules](rules/general-rules.md)
-* [📸 Clipping & POV Policy](rules/clipping-pov.md)
+* [Clipping & POV Policy](rules/clipping-pov.md)
 * [I. Character Creation](rules/character-creation.md)
 * [II. Out of Character (OOC)](rules/ooc.md)
 * [III. F8 / Combat Log](rules/combat-log.md)
@@ -18,10 +18,7 @@
 * [X. Vehicle Deathmatch (VDM)](rules/vdm.md)
 * [XI. Exploiting](rules/exploiting.md)
 
-## 💸 Player Guides
+## Player Guides
 
 * [Reimbursement Guide](rules/reimbursement.md)
-
-## ⚖️ Fear RP Quick Reference
-
-* [Fear RP Scenarios](rules/fear-rp-reference.md)
+* [Fear RP Quick Reference](rules/fear-rp-reference.md)
