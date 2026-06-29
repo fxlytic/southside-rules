@@ -1,0 +1,6 @@
+Save your SouthSide logo image in this folder as:
+
+    southside-logo.png
+
+The README.md cover and header already point to that exact filename.
+PNG is preferred. Once added, you can delete this placeholder file.
