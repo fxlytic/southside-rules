@@ -18,6 +18,15 @@
 * [X. Vehicle Deathmatch (VDM)](rules/vdm.md)
 * [XI. Exploiting](rules/exploiting.md)
 
+## Faction Wars (KOS)
+
+* [Faction Wars (KOS)](kos/README.md)
+  * [POV & Clip Rules](kos/pov-clips.md)
+  * [Combat Rules](kos/combat.md)
+  * [Clothing & Gang Requirements](kos/clothing-gang.md)
+  * [DQ Rules](kos/dq.md)
+  * [Round Replays (RR)](kos/round-replay.md)
+
 ## Player Guides
 
 * [Reimbursement Guide](rules/reimbursement.md)
